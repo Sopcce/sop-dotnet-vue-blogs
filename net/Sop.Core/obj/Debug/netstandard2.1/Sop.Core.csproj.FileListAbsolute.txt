@@ -1,0 +1,12 @@
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\bin\Debug\netstandard2.1\Sop.Core.deps.json
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\bin\Debug\netstandard2.1\Sop.Core.dll
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\bin\Debug\netstandard2.1\Sop.Core.pdb
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\bin\Debug\netstandard2.1\Sop.Data.dll
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\bin\Debug\netstandard2.1\Sop.Data.pdb
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.csprojAssemblyReference.cache
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.AssemblyInfoInputs.cache
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.AssemblyInfo.cs
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.csproj.CoreCompileInputs.cache
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.csproj.CopyComplete
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.dll
+E:\Code\sop-dotnet-vue-blogs\net\Sop.Core\obj\Debug\netstandard2.1\Sop.Core.pdb
