@@ -6779,11 +6779,11 @@
   "project": {
     "version": "1.0.2",
     "restore": {
-      "projectUniqueName": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj",
+      "projectUniqueName": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj",
       "projectName": "Sop.Data",
-      "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj",
+      "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj",
       "packagesPath": "C:\\Users\\sopcc\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Data\\obj\\",
+      "outputPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

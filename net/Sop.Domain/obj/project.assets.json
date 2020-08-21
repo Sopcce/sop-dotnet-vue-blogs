@@ -9736,11 +9736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
+      "projectUniqueName": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
       "projectName": "Sop.Domain",
-      "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
+      "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
       "packagesPath": "C:\\Users\\sopcc\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\obj\\",
+      "outputPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sopcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9756,11 +9756,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Core\\Sop.Core.csproj": {
-              "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Core\\Sop.Core.csproj"
+            "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Core\\Sop.Core.csproj": {
+              "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Core\\Sop.Core.csproj"
             },
-            "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj": {
-              "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj"
+            "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj": {
+              "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Data\\Sop.Data.csproj"
             }
           }
         }

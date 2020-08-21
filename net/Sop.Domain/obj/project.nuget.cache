@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnbjMB8EhW6H4FcGnMXwiKzeqpOT9u89rN2LCdfG1vRRRE/Klf7yKSEdEhPHO/jk8QI78VcE5md9mx3Wcl0hpQ==",
+  "dgSpecHash": "6bLMFaz0uSFT7J9fZxF+2mNA1Pv66ZvGBq1ph3udMJojjvRoMad8m6j0bvc5XQAPKfuvkYjn3Xl1xcXM/kwCLA==",
   "success": true,
-  "projectFilePath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
+  "projectFilePath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sopcc\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\sopcc\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.1\\autofac.extensions.dependencyinjection.5.0.1.nupkg.sha512",

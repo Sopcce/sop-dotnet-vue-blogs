@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xg9PMeYXGS4mznMEeGVL9Nrs6vOANs2Aai8WV5DpbI7wcEJqLSIagUAbGOv80T2TPxKfgr+SQZCzHJUwuJY8AQ==",
+  "dgSpecHash": "lrX+OgNiGFaVBBtO4EAPR71a4NbEhZt+kulAyb2B4ZTeVSk7jbeFaYvaWmZfl7OrWrjEEpxvpzvep2idh8SaAg==",
   "success": true,
-  "projectFilePath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sopcc\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
     "C:\\Users\\sopcc\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.1\\autofac.extensions.dependencyinjection.5.0.1.nupkg.sha512",

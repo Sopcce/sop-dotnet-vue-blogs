@@ -9910,11 +9910,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
+      "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\sopcc\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\WebApi\\obj\\",
+      "outputPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sopcc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9930,8 +9930,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj": {
-              "projectPath": "E:\\Code\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj"
+            "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj": {
+              "projectPath": "E:\\Code\\github\\sop-dotnet-vue-blogs\\net\\Sop.Domain\\Sop.Domain.csproj"
             }
           }
         }
